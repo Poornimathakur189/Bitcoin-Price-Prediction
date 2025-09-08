@@ -1,7 +1,5 @@
 # Bitcoin Price Prediction using Machine Learning in Python
 
-Last Updated: 06 Aug, 2025
-
 Machine learning proves immensely helpful in many industries in automating tasks that earlier required human labor; one such application is predicting whether a particular **buy signal** will be profitable or not.
 
 This repository implements:
