@@ -60,4 +60,4 @@ jupyter notebook notebooks/analysis.ipynb
 - `outputs/metrics.txt`: ROC-AUC (train/valid) and class balance
 
 ## Credits
-This codebase follows the outline you provided and is productionized for GitHub.
+This codebase follows the outline you provided and is productionized for GitHub file.
